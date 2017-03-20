@@ -1,0 +1,872 @@
+[ Thu Dec 31 15:09:21 2015 ]Built a connector on ('192.168.100.204', 54028)!
+[ Thu Dec 31 15:18:20 2015 ]Data length to receive is: 16
+[ Thu Dec 31 15:18:20 2015 ]Temp length to receive is: 16
+[ Thu Dec 31 15:18:20 2015 ]Data length received is: 16
+[ Thu Dec 31 15:18:20 2015 ]Start to export excel for user 1.
+[ Thu Dec 31 15:18:20 2015 ]    StartDate: 20151201; EndDate: 20151230; VehiclteType: 5; PlatformId: 0.
+[ Thu Dec 31 15:18:20 2015 ]Start to export six ban over speed and break ban summary for all
+[ Thu Dec 31 15:18:24 2015 ]Start to export six ban over speed and break ban summary for 成都, zoneID: 51010000.
+[ Thu Dec 31 15:18:30 2015 ]Start to export six ban over speed and break ban summary for 绵阳, zoneID: 51070000.
+[ Thu Dec 31 15:18:33 2015 ]Start to export six ban over speed and break ban summary for 自贡, zoneID: 51030000.
+[ Thu Dec 31 15:18:37 2015 ]Start to export six ban over speed and break ban summary for 攀枝花, zoneID: 51040000.
+[ Thu Dec 31 15:18:40 2015 ]Start to export six ban over speed and break ban summary for 泸州, zoneID: 51050000.
+[ Thu Dec 31 15:18:44 2015 ]Start to export six ban over speed and break ban summary for 德阳, zoneID: 51060000.
+[ Thu Dec 31 15:18:48 2015 ]Start to export six ban over speed and break ban summary for 广元, zoneID: 51080000.
+[ Thu Dec 31 15:18:51 2015 ]Start to export six ban over speed and break ban summary for 遂宁, zoneID: 51090000.
+[ Thu Dec 31 15:18:55 2015 ]Start to export six ban over speed and break ban summary for 内江, zoneID: 51100000.
+[ Thu Dec 31 15:18:58 2015 ]Start to export six ban over speed and break ban summary for 乐山, zoneID: 51110000.
+[ Thu Dec 31 15:19:02 2015 ]Start to export six ban over speed and break ban summary for 资阳, zoneID: 51200000.
+[ Thu Dec 31 15:19:05 2015 ]Start to export six ban over speed and break ban summary for 宜宾, zoneID: 51150000.
+[ Thu Dec 31 15:19:09 2015 ]Start to export six ban over speed and break ban summary for 南充, zoneID: 51130000.
+[ Thu Dec 31 15:19:13 2015 ]Start to export six ban over speed and break ban summary for 达州, zoneID: 51170000.
+[ Thu Dec 31 15:19:16 2015 ]Start to export six ban over speed and break ban summary for 雅安, zoneID: 51180000.
+[ Thu Dec 31 15:19:20 2015 ]Start to export six ban over speed and break ban summary for 阿坝, zoneID: 51320000.
+[ Thu Dec 31 15:19:23 2015 ]Start to export six ban over speed and break ban summary for 甘孜, zoneID: 51330000.
+[ Thu Dec 31 15:19:27 2015 ]Start to export six ban over speed and break ban summary for 凉山, zoneID: 51340000.
+[ Thu Dec 31 15:19:30 2015 ]Start to export six ban over speed and break ban summary for 广安, zoneID: 51160000.
+[ Thu Dec 31 15:19:34 2015 ]Start to export six ban over speed and break ban summary for 巴中, zoneID: 51190000.
+[ Thu Dec 31 15:19:37 2015 ]Start to export six ban over speed and break ban summary for 眉山, zoneID: 51140000.
+[ Thu Dec 31 15:19:41 2015 ]Export vehicle.
+
+[ Thu Dec 31 15:19:48 2015 ]Start to export six ban over speed and break ban detail for 资阳, zoneID: 51200000.
+[ Thu Dec 31 15:20:04 2015 ]Send hook successfully.
+[ Thu Dec 31 15:20:04 2015 ]LocationAnalyer successfully built connection to MapDataInterface.
+[ Thu Dec 31 15:20:04 2015 ]Start to receive location data.Point number should be 2
+[ Thu Dec 31 15:20:04 2015 ]Start to receive data.
+[ Thu Dec 31 15:20:04 2015 ]Data length to receive is: 60
+[ Thu Dec 31 15:20:04 2015 ]Temp length to receive is: 60
+[ Thu Dec 31 15:20:04 2015 ]Data length received is: 60
+[ Thu Dec 31 15:20:04 2015 ]Start to receive data.
+[ Thu Dec 31 15:20:04 2015 ]Data length to receive is: 304
+[ Thu Dec 31 15:20:04 2015 ]Temp length to receive is: 304
+[ Thu Dec 31 15:20:04 2015 ]Data length received is: 304
+[ Thu Dec 31 15:20:04 2015 ]Location data received.
+[ Thu Dec 31 15:20:08 2015 ]Start to receive location data.Point number should be 136
+[ Thu Dec 31 15:20:08 2015 ]Start to receive data.
+[ Thu Dec 31 15:20:08 2015 ]Data length to receive is: 20404
+[ Thu Dec 31 15:20:08 2015 ]Temp length to receive is: 20404
+[ Thu Dec 31 15:20:08 2015 ]Data length received is: 2896
+[ Thu Dec 31 15:20:08 2015 ]Temp length to receive is: 17508
+[ Thu Dec 31 15:20:08 2015 ]Data length received is: 17508
+[ Thu Dec 31 15:20:08 2015 ]Location data received.
+[ Thu Dec 31 15:20:08 2015 ]Start to export six ban over speed and break ban detail for 广安, zoneID: 51160000.
+[ Thu Dec 31 15:20:21 2015 ]Start to receive location data.Point number should be 16
+[ Thu Dec 31 15:20:21 2015 ]Start to receive data.
+[ Thu Dec 31 15:20:21 2015 ]Start to receive data.
+[ Thu Dec 31 15:20:21 2015 ]Start to receive data.
+[ Thu Dec 31 15:20:21 2015 ]Data length to receive is: 2404
+[ Thu Dec 31 15:20:21 2015 ]Temp length to receive is: 2404
+[ Thu Dec 31 15:20:21 2015 ]Data length received is: 2404
+[ Thu Dec 31 15:20:21 2015 ]Location data received.
+[ Thu Dec 31 15:20:21 2015 ]Start to export six ban over speed and break ban detail for 宜宾, zoneID: 51150000.
+[ Thu Dec 31 15:20:42 2015 ]Start to receive location data.Point number should be 18
+[ Thu Dec 31 15:20:42 2015 ]Start to receive data.
+[ Thu Dec 31 15:20:42 2015 ]Start to receive data.
+[ Thu Dec 31 15:20:42 2015 ]Data length to receive is: 2704
+[ Thu Dec 31 15:20:42 2015 ]Temp length to receive is: 2704
+[ Thu Dec 31 15:20:42 2015 ]Data length received is: 2704
+[ Thu Dec 31 15:20:42 2015 ]Location data received.
+[ Thu Dec 31 15:20:45 2015 ]Start to receive location data.Point number should be 30
+[ Thu Dec 31 15:20:45 2015 ]Start to receive data.
+[ Thu Dec 31 15:20:45 2015 ]Data length to receive is: 4504
+[ Thu Dec 31 15:20:45 2015 ]Temp length to receive is: 4504
+[ Thu Dec 31 15:20:45 2015 ]Data length received is: 4504
+[ Thu Dec 31 15:20:45 2015 ]Location data received.
+[ Thu Dec 31 15:20:45 2015 ]Start to export six ban over speed and break ban detail for 泸州, zoneID: 51050000.
+[ Thu Dec 31 15:21:14 2015 ]Start to receive location data.Point number should be 54
+[ Thu Dec 31 15:21:14 2015 ]Start to receive data.
+[ Thu Dec 31 15:21:14 2015 ]Start to receive data.
+[ Thu Dec 31 15:21:14 2015 ]Start to receive data.
+[ Thu Dec 31 15:21:14 2015 ]Data length to receive is: 8104
+[ Thu Dec 31 15:21:14 2015 ]Temp length to receive is: 8104
+[ Thu Dec 31 15:21:14 2015 ]Data length received is: 8104
+[ Thu Dec 31 15:21:14 2015 ]Location data received.
+[ Thu Dec 31 15:21:18 2015 ]Start to receive location data.Point number should be 172
+[ Thu Dec 31 15:21:18 2015 ]Start to receive data.
+[ Thu Dec 31 15:21:18 2015 ]Data length to receive is: 25804
+[ Thu Dec 31 15:21:18 2015 ]Temp length to receive is: 25804
+[ Thu Dec 31 15:21:18 2015 ]Data length received is: 14576
+[ Thu Dec 31 15:21:18 2015 ]Temp length to receive is: 11228
+[ Thu Dec 31 15:21:18 2015 ]Data length received is: 11228
+[ Thu Dec 31 15:21:18 2015 ]Location data received.
+[ Thu Dec 31 15:21:18 2015 ]Start to export six ban over speed and break ban detail for 德阳, zoneID: 51060000.
+[ Thu Dec 31 15:21:36 2015 ]Start to receive location data.Point number should be 2
+[ Thu Dec 31 15:21:36 2015 ]Start to receive data.
+[ Thu Dec 31 15:21:36 2015 ]Start to receive data.
+[ Thu Dec 31 15:21:36 2015 ]Data length to receive is: 304
+[ Thu Dec 31 15:21:36 2015 ]Temp length to receive is: 304
+[ Thu Dec 31 15:21:36 2015 ]Data length received is: 304
+[ Thu Dec 31 15:21:36 2015 ]Location data received.
+[ Thu Dec 31 15:21:40 2015 ]Start to receive location data.Point number should be 150
+[ Thu Dec 31 15:21:40 2015 ]Start to receive data.
+[ Thu Dec 31 15:21:40 2015 ]Data length to receive is: 22504
+[ Thu Dec 31 15:21:40 2015 ]Temp length to receive is: 22504
+[ Thu Dec 31 15:21:40 2015 ]Data length received is: 18956
+[ Thu Dec 31 15:21:40 2015 ]Temp length to receive is: 3548
+[ Thu Dec 31 15:21:40 2015 ]Data length received is: 3548
+[ Thu Dec 31 15:21:40 2015 ]Location data received.
+[ Thu Dec 31 15:21:40 2015 ]Start to export six ban over speed and break ban detail for 乐山, zoneID: 51110000.
+[ Thu Dec 31 15:22:09 2015 ]Start to receive location data.Point number should be 78
+[ Thu Dec 31 15:22:09 2015 ]Start to receive data.
+[ Thu Dec 31 15:22:09 2015 ]Start to receive data.
+[ Thu Dec 31 15:22:09 2015 ]Start to receive data.
+[ Thu Dec 31 15:22:09 2015 ]Data length to receive is: 11704
+[ Thu Dec 31 15:22:09 2015 ]Temp length to receive is: 11704
+[ Thu Dec 31 15:22:09 2015 ]Data length received is: 11704
+[ Thu Dec 31 15:22:09 2015 ]Location data received.
+[ Thu Dec 31 15:22:09 2015 ]Start to export six ban over speed and break ban detail for 阿坝, zoneID: 51320000.
+[ Thu Dec 31 15:22:40 2015 ]Start to receive location data.Point number should be 6
+[ Thu Dec 31 15:22:40 2015 ]Start to receive data.
+[ Thu Dec 31 15:22:40 2015 ]Start to receive data.
+[ Thu Dec 31 15:22:40 2015 ]Start to receive data.
+[ Thu Dec 31 15:22:40 2015 ]Data length to receive is: 904
+[ Thu Dec 31 15:22:40 2015 ]Temp length to receive is: 904
+[ Thu Dec 31 15:22:40 2015 ]Data length received is: 904
+[ Thu Dec 31 15:22:40 2015 ]Location data received.
+[ Thu Dec 31 15:22:44 2015 ]Start to receive location data.Point number should be 140
+[ Thu Dec 31 15:22:44 2015 ]Start to receive data.
+[ Thu Dec 31 15:22:44 2015 ]Start to receive data.
+[ Thu Dec 31 15:22:44 2015 ]Data length to receive is: 21004
+[ Thu Dec 31 15:22:44 2015 ]Temp length to receive is: 21004
+[ Thu Dec 31 15:22:44 2015 ]Data length received is: 11656
+[ Thu Dec 31 15:22:44 2015 ]Temp length to receive is: 9348
+[ Thu Dec 31 15:22:44 2015 ]Data length received is: 9348
+[ Thu Dec 31 15:22:44 2015 ]Location data received.
+[ Thu Dec 31 15:22:44 2015 ]Start to export six ban over speed and break ban detail for 绵阳, zoneID: 51070000.
+[ Thu Dec 31 15:23:09 2015 ]Start to receive location data.Point number should be 2
+[ Thu Dec 31 15:23:09 2015 ]Start to receive data.
+[ Thu Dec 31 15:23:09 2015 ]Start to receive data.
+[ Thu Dec 31 15:23:09 2015 ]Data length to receive is: 304
+[ Thu Dec 31 15:23:09 2015 ]Temp length to receive is: 304
+[ Thu Dec 31 15:23:09 2015 ]Data length received is: 304
+[ Thu Dec 31 15:23:09 2015 ]Location data received.
+[ Thu Dec 31 15:23:12 2015 ]Start to receive location data.Point number should be 14
+[ Thu Dec 31 15:23:12 2015 ]Start to receive data.
+[ Thu Dec 31 15:23:12 2015 ]Start to receive data.
+[ Thu Dec 31 15:23:12 2015 ]Data length to receive is: 2104
+[ Thu Dec 31 15:23:12 2015 ]Temp length to receive is: 2104
+[ Thu Dec 31 15:23:12 2015 ]Data length received is: 2104
+[ Thu Dec 31 15:23:12 2015 ]Location data received.
+[ Thu Dec 31 15:23:12 2015 ]Start to export six ban over speed and break ban detail for 广元, zoneID: 51080000.
+[ Thu Dec 31 15:23:30 2015 ]Start to receive location data.Point number should be 52
+[ Thu Dec 31 15:23:30 2015 ]Start to receive data.
+[ Thu Dec 31 15:23:30 2015 ]Start to receive data.
+[ Thu Dec 31 15:23:30 2015 ]Data length to receive is: 7804
+[ Thu Dec 31 15:23:30 2015 ]Temp length to receive is: 7804
+[ Thu Dec 31 15:23:30 2015 ]Data length received is: 7804
+[ Thu Dec 31 15:23:30 2015 ]Location data received.
+[ Thu Dec 31 15:23:30 2015 ]Start to export six ban over speed and break ban detail for 达州, zoneID: 51170000.
+[ Thu Dec 31 15:23:47 2015 ]Start to receive location data.Point number should be 20
+[ Thu Dec 31 15:23:47 2015 ]Start to receive data.
+[ Thu Dec 31 15:23:47 2015 ]Start to receive data.
+[ Thu Dec 31 15:23:47 2015 ]Data length to receive is: 3004
+[ Thu Dec 31 15:23:47 2015 ]Temp length to receive is: 3004
+[ Thu Dec 31 15:23:47 2015 ]Data length received is: 3004
+[ Thu Dec 31 15:23:47 2015 ]Location data received.
+[ Thu Dec 31 15:23:50 2015 ]Start to receive location data.Point number should be 2
+[ Thu Dec 31 15:23:50 2015 ]Start to receive data.
+[ Thu Dec 31 15:23:50 2015 ]Start to receive data.
+[ Thu Dec 31 15:23:51 2015 ]Data length to receive is: 304
+[ Thu Dec 31 15:23:51 2015 ]Temp length to receive is: 304
+[ Thu Dec 31 15:23:51 2015 ]Data length received is: 304
+[ Thu Dec 31 15:23:51 2015 ]Location data received.
+[ Thu Dec 31 15:23:51 2015 ]Start to export six ban over speed and break ban detail for 四川, zoneID: 51000000.
+[ Thu Dec 31 15:23:55 2015 ]Start to receive location data.Point number should be 400
+[ Thu Dec 31 15:23:55 2015 ]Start to receive data.
+[ Thu Dec 31 15:23:55 2015 ]Data length to receive is: 60004
+[ Thu Dec 31 15:23:55 2015 ]Temp length to receive is: 60004
+[ Thu Dec 31 15:23:55 2015 ]Data length received is: 17496
+[ Thu Dec 31 15:23:55 2015 ]Temp length to receive is: 42508
+[ Thu Dec 31 15:23:55 2015 ]Data length received is: 42508
+[ Thu Dec 31 15:23:55 2015 ]Location data received.
+[ Thu Dec 31 15:23:55 2015 ]Start to receive location data.Point number should be 400
+[ Thu Dec 31 15:23:55 2015 ]Start to receive data.
+[ Thu Dec 31 15:23:55 2015 ]Data length to receive is: 60004
+[ Thu Dec 31 15:23:55 2015 ]Temp length to receive is: 60004
+[ Thu Dec 31 15:23:55 2015 ]Data length received is: 16036
+[ Thu Dec 31 15:23:55 2015 ]Temp length to receive is: 43968
+[ Thu Dec 31 15:23:55 2015 ]Data length received is: 43968
+[ Thu Dec 31 15:23:55 2015 ]Location data received.
+[ Thu Dec 31 15:23:55 2015 ]Start to receive location data.Point number should be 400
+[ Thu Dec 31 15:23:55 2015 ]Start to receive data.
+[ Thu Dec 31 15:23:56 2015 ]Data length to receive is: 60004
+[ Thu Dec 31 15:23:56 2015 ]Temp length to receive is: 60004
+[ Thu Dec 31 15:23:56 2015 ]Data length received is: 17496
+[ Thu Dec 31 15:23:56 2015 ]Temp length to receive is: 42508
+[ Thu Dec 31 15:23:56 2015 ]Data length received is: 42508
+[ Thu Dec 31 15:23:56 2015 ]Location data received.
+[ Thu Dec 31 15:23:56 2015 ]Start to receive location data.Point number should be 288
+[ Thu Dec 31 15:23:56 2015 ]Start to receive data.
+[ Thu Dec 31 15:23:56 2015 ]Data length to receive is: 43204
+[ Thu Dec 31 15:23:56 2015 ]Temp length to receive is: 43204
+[ Thu Dec 31 15:23:56 2015 ]Data length received is: 17496
+[ Thu Dec 31 15:23:56 2015 ]Temp length to receive is: 25708
+[ Thu Dec 31 15:23:56 2015 ]Data length received is: 25708
+[ Thu Dec 31 15:23:56 2015 ]Location data received.
+[ Thu Dec 31 15:24:00 2015 ]Start to receive location data.Point number should be 400
+[ Thu Dec 31 15:24:00 2015 ]Start to receive data.
+[ Thu Dec 31 15:24:00 2015 ]Data length to receive is: 60004
+[ Thu Dec 31 15:24:00 2015 ]Temp length to receive is: 60004
+[ Thu Dec 31 15:24:00 2015 ]Data length received is: 17496
+[ Thu Dec 31 15:24:00 2015 ]Temp length to receive is: 42508
+[ Thu Dec 31 15:24:00 2015 ]Data length received is: 42508
+[ Thu Dec 31 15:24:00 2015 ]Location data received.
+[ Thu Dec 31 15:24:00 2015 ]Start to receive location data.Point number should be 400
+[ Thu Dec 31 15:24:00 2015 ]Start to receive data.
+[ Thu Dec 31 15:24:00 2015 ]Data length to receive is: 60004
+[ Thu Dec 31 15:24:00 2015 ]Temp length to receive is: 60004
+[ Thu Dec 31 15:24:00 2015 ]Data length received is: 14576
+[ Thu Dec 31 15:24:00 2015 ]Temp length to receive is: 45428
+[ Thu Dec 31 15:24:00 2015 ]Data length received is: 40880
+[ Thu Dec 31 15:24:00 2015 ]Temp length to receive is: 4548
+[ Thu Dec 31 15:24:00 2015 ]Data length received is: 4548
+[ Thu Dec 31 15:24:00 2015 ]Location data received.
+[ Thu Dec 31 15:24:00 2015 ]Start to receive location data.Point number should be 400
+[ Thu Dec 31 15:24:00 2015 ]Start to receive data.
+[ Thu Dec 31 15:24:00 2015 ]Data length to receive is: 60004
+[ Thu Dec 31 15:24:00 2015 ]Temp length to receive is: 60004
+[ Thu Dec 31 15:24:00 2015 ]Data length received is: 17496
+[ Thu Dec 31 15:24:00 2015 ]Temp length to receive is: 42508
+[ Thu Dec 31 15:24:00 2015 ]Data length received is: 24820
+[ Thu Dec 31 15:24:00 2015 ]Temp length to receive is: 17688
+[ Thu Dec 31 15:24:00 2015 ]Data length received is: 17688
+[ Thu Dec 31 15:24:00 2015 ]Location data received.
+[ Thu Dec 31 15:24:00 2015 ]Start to receive location data.Point number should be 400
+[ Thu Dec 31 15:24:00 2015 ]Start to receive data.
+[ Thu Dec 31 15:24:00 2015 ]Data length to receive is: 60004
+[ Thu Dec 31 15:24:00 2015 ]Temp length to receive is: 60004
+[ Thu Dec 31 15:24:00 2015 ]Data length received is: 17496
+[ Thu Dec 31 15:24:00 2015 ]Temp length to receive is: 42508
+[ Thu Dec 31 15:24:00 2015 ]Data length received is: 27740
+[ Thu Dec 31 15:24:00 2015 ]Temp length to receive is: 14768
+[ Thu Dec 31 15:24:00 2015 ]Data length received is: 14768
+[ Thu Dec 31 15:24:00 2015 ]Location data received.
+[ Thu Dec 31 15:24:00 2015 ]Start to receive location data.Point number should be 400
+[ Thu Dec 31 15:24:00 2015 ]Start to receive data.
+[ Thu Dec 31 15:24:00 2015 ]Data length to receive is: 60004
+[ Thu Dec 31 15:24:00 2015 ]Temp length to receive is: 60004
+[ Thu Dec 31 15:24:00 2015 ]Data length received is: 16036
+[ Thu Dec 31 15:24:00 2015 ]Temp length to receive is: 43968
+[ Thu Dec 31 15:24:00 2015 ]Data length received is: 43968
+[ Thu Dec 31 15:24:00 2015 ]Location data received.
+[ Thu Dec 31 15:24:01 2015 ]Start to receive location data.Point number should be 400
+[ Thu Dec 31 15:24:01 2015 ]Start to receive data.
+[ Thu Dec 31 15:24:01 2015 ]Data length to receive is: 60004
+[ Thu Dec 31 15:24:01 2015 ]Temp length to receive is: 60004
+[ Thu Dec 31 15:24:01 2015 ]Data length received is: 21876
+[ Thu Dec 31 15:24:01 2015 ]Temp length to receive is: 38128
+[ Thu Dec 31 15:24:01 2015 ]Data length received is: 38128
+[ Thu Dec 31 15:24:01 2015 ]Location data received.
+[ Thu Dec 31 15:24:01 2015 ]Start to receive location data.Point number should be 400
+[ Thu Dec 31 15:24:01 2015 ]Start to receive data.
+[ Thu Dec 31 15:24:01 2015 ]Data length to receive is: 60004
+[ Thu Dec 31 15:24:01 2015 ]Temp length to receive is: 60004
+[ Thu Dec 31 15:24:01 2015 ]Data length received is: 16036
+[ Thu Dec 31 15:24:01 2015 ]Temp length to receive is: 43968
+[ Thu Dec 31 15:24:01 2015 ]Data length received is: 35040
+[ Thu Dec 31 15:24:01 2015 ]Temp length to receive is: 8928
+[ Thu Dec 31 15:24:01 2015 ]Data length received is: 8928
+[ Thu Dec 31 15:24:01 2015 ]Location data received.
+[ Thu Dec 31 15:24:01 2015 ]Start to receive location data.Point number should be 400
+[ Thu Dec 31 15:24:01 2015 ]Start to receive data.
+[ Thu Dec 31 15:24:01 2015 ]Data length to receive is: 60004
+[ Thu Dec 31 15:24:01 2015 ]Temp length to receive is: 60004
+[ Thu Dec 31 15:24:01 2015 ]Data length received is: 16036
+[ Thu Dec 31 15:24:01 2015 ]Temp length to receive is: 43968
+[ Thu Dec 31 15:24:01 2015 ]Data length received is: 43968
+[ Thu Dec 31 15:24:01 2015 ]Location data received.
+[ Thu Dec 31 15:24:01 2015 ]Start to receive location data.Point number should be 400
+[ Thu Dec 31 15:24:01 2015 ]Start to receive data.
+[ Thu Dec 31 15:24:01 2015 ]Data length to receive is: 60004
+[ Thu Dec 31 15:24:01 2015 ]Temp length to receive is: 60004
+[ Thu Dec 31 15:24:01 2015 ]Data length received is: 16036
+[ Thu Dec 31 15:24:01 2015 ]Temp length to receive is: 43968
+[ Thu Dec 31 15:24:01 2015 ]Data length received is: 33580
+[ Thu Dec 31 15:24:01 2015 ]Temp length to receive is: 10388
+[ Thu Dec 31 15:24:01 2015 ]Data length received is: 10388
+[ Thu Dec 31 15:24:01 2015 ]Location data received.
+[ Thu Dec 31 15:24:01 2015 ]Start to receive location data.Point number should be 400
+[ Thu Dec 31 15:24:01 2015 ]Start to receive data.
+[ Thu Dec 31 15:24:01 2015 ]Data length to receive is: 60004
+[ Thu Dec 31 15:24:01 2015 ]Temp length to receive is: 60004
+[ Thu Dec 31 15:24:01 2015 ]Data length received is: 17496
+[ Thu Dec 31 15:24:01 2015 ]Temp length to receive is: 42508
+[ Thu Dec 31 15:24:01 2015 ]Data length received is: 24820
+[ Thu Dec 31 15:24:01 2015 ]Temp length to receive is: 17688
+[ Thu Dec 31 15:24:01 2015 ]Data length received is: 17688
+[ Thu Dec 31 15:24:01 2015 ]Location data received.
+[ Thu Dec 31 15:24:01 2015 ]Start to receive location data.Point number should be 400
+[ Thu Dec 31 15:24:01 2015 ]Start to receive data.
+[ Thu Dec 31 15:24:02 2015 ]Data length to receive is: 60004
+[ Thu Dec 31 15:24:02 2015 ]Temp length to receive is: 60004
+[ Thu Dec 31 15:24:02 2015 ]Data length received is: 14576
+[ Thu Dec 31 15:24:02 2015 ]Temp length to receive is: 45428
+[ Thu Dec 31 15:24:02 2015 ]Data length received is: 32120
+[ Thu Dec 31 15:24:02 2015 ]Temp length to receive is: 13308
+[ Thu Dec 31 15:24:02 2015 ]Data length received is: 13308
+[ Thu Dec 31 15:24:02 2015 ]Location data received.
+[ Thu Dec 31 15:24:02 2015 ]Start to receive location data.Point number should be 178
+[ Thu Dec 31 15:24:02 2015 ]Start to receive data.
+[ Thu Dec 31 15:24:02 2015 ]Data length to receive is: 26704
+[ Thu Dec 31 15:24:02 2015 ]Temp length to receive is: 26704
+[ Thu Dec 31 15:24:02 2015 ]Data length received is: 16036
+[ Thu Dec 31 15:24:02 2015 ]Temp length to receive is: 10668
+[ Thu Dec 31 15:24:02 2015 ]Data length received is: 10668
+[ Thu Dec 31 15:24:02 2015 ]Location data received.
+[ Thu Dec 31 15:24:03 2015 ]Start to export six ban over speed and break ban detail for 眉山, zoneID: 51140000.
+[ Thu Dec 31 15:24:21 2015 ]Start to receive location data.Point number should be 276
+[ Thu Dec 31 15:24:21 2015 ]Start to receive data.
+[ Thu Dec 31 15:24:21 2015 ]Start to receive data.
+[ Thu Dec 31 15:24:21 2015 ]Start to receive data.
+[ Thu Dec 31 15:24:21 2015 ]Data length to receive is: 41404
+[ Thu Dec 31 15:24:21 2015 ]Temp length to receive is: 41404
+[ Thu Dec 31 15:24:21 2015 ]Data length received is: 20416
+[ Thu Dec 31 15:24:21 2015 ]Temp length to receive is: 20988
+[ Thu Dec 31 15:24:21 2015 ]Data length received is: 20988
+[ Thu Dec 31 15:24:21 2015 ]Location data received.
+[ Thu Dec 31 15:24:24 2015 ]Start to receive location data.Point number should be 360
+[ Thu Dec 31 15:24:24 2015 ]Start to receive data.
+[ Thu Dec 31 15:24:24 2015 ]Data length to receive is: 54004
+[ Thu Dec 31 15:24:24 2015 ]Temp length to receive is: 54004
+[ Thu Dec 31 15:24:24 2015 ]Data length received is: 14576
+[ Thu Dec 31 15:24:24 2015 ]Temp length to receive is: 39428
+[ Thu Dec 31 15:24:24 2015 ]Data length received is: 39428
+[ Thu Dec 31 15:24:24 2015 ]Location data received.
+[ Thu Dec 31 15:24:25 2015 ]Start to export six ban over speed and break ban detail for 甘孜, zoneID: 51330000.
+[ Thu Dec 31 15:24:43 2015 ]Start to receive location data.Point number should be 2
+[ Thu Dec 31 15:24:43 2015 ]Start to receive data.
+[ Thu Dec 31 15:24:43 2015 ]Start to receive data.
+[ Thu Dec 31 15:24:43 2015 ]Data length to receive is: 304
+[ Thu Dec 31 15:24:43 2015 ]Temp length to receive is: 304
+[ Thu Dec 31 15:24:43 2015 ]Data length received is: 304
+[ Thu Dec 31 15:24:43 2015 ]Location data received.
+[ Thu Dec 31 15:24:46 2015 ]Start to receive location data.Point number should be 92
+[ Thu Dec 31 15:24:46 2015 ]Start to receive data.
+[ Thu Dec 31 15:24:46 2015 ]Data length to receive is: 13804
+[ Thu Dec 31 15:24:46 2015 ]Temp length to receive is: 13804
+[ Thu Dec 31 15:24:46 2015 ]Data length received is: 13804
+[ Thu Dec 31 15:24:46 2015 ]Location data received.
+[ Thu Dec 31 15:24:46 2015 ]Start to export six ban over speed and break ban detail for 雅安, zoneID: 51180000.
+[ Thu Dec 31 15:24:56 2015 ]Start to receive location data.Point number should be 2
+[ Thu Dec 31 15:24:56 2015 ]Start to receive data.
+[ Thu Dec 31 15:24:56 2015 ]Start to receive data.
+[ Thu Dec 31 15:24:56 2015 ]Data length to receive is: 304
+[ Thu Dec 31 15:24:56 2015 ]Temp length to receive is: 304
+[ Thu Dec 31 15:24:56 2015 ]Data length received is: 304
+[ Thu Dec 31 15:24:56 2015 ]Location data received.
+[ Thu Dec 31 15:24:59 2015 ]Start to receive location data.Point number should be 14
+[ Thu Dec 31 15:24:59 2015 ]Start to receive data.
+[ Thu Dec 31 15:24:59 2015 ]Data length to receive is: 2104
+[ Thu Dec 31 15:24:59 2015 ]Temp length to receive is: 2104
+[ Thu Dec 31 15:24:59 2015 ]Data length received is: 2104
+[ Thu Dec 31 15:24:59 2015 ]Location data received.
+[ Thu Dec 31 15:24:59 2015 ]Start to export six ban over speed and break ban detail for 南充, zoneID: 51130000.
+[ Thu Dec 31 15:25:25 2015 ]Start to receive location data.Point number should be 46
+[ Thu Dec 31 15:25:25 2015 ]Start to receive data.
+[ Thu Dec 31 15:25:25 2015 ]Start to receive data.
+[ Thu Dec 31 15:25:25 2015 ]Start to receive data.
+[ Thu Dec 31 15:25:25 2015 ]Data length to receive is: 6904
+[ Thu Dec 31 15:25:25 2015 ]Temp length to receive is: 6904
+[ Thu Dec 31 15:25:25 2015 ]Data length received is: 6904
+[ Thu Dec 31 15:25:25 2015 ]Location data received.
+[ Thu Dec 31 15:25:25 2015 ]Start to export six ban over speed and break ban detail for 凉山, zoneID: 51340000.
+[ Thu Dec 31 15:25:42 2015 ]Start to receive location data.Point number should be 28
+[ Thu Dec 31 15:25:42 2015 ]Start to receive data.
+[ Thu Dec 31 15:25:42 2015 ]Start to receive data.
+[ Thu Dec 31 15:25:42 2015 ]Data length to receive is: 4204
+[ Thu Dec 31 15:25:42 2015 ]Temp length to receive is: 4204
+[ Thu Dec 31 15:25:42 2015 ]Data length received is: 4204
+[ Thu Dec 31 15:25:42 2015 ]Location data received.
+[ Thu Dec 31 15:25:46 2015 ]Start to receive location data.Point number should be 400
+[ Thu Dec 31 15:25:46 2015 ]Start to receive data.
+[ Thu Dec 31 15:25:46 2015 ]Data length to receive is: 60004
+[ Thu Dec 31 15:25:46 2015 ]Temp length to receive is: 60004
+[ Thu Dec 31 15:25:46 2015 ]Data length received is: 21876
+[ Thu Dec 31 15:25:46 2015 ]Temp length to receive is: 38128
+[ Thu Dec 31 15:25:46 2015 ]Data length received is: 32120
+[ Thu Dec 31 15:25:46 2015 ]Temp length to receive is: 6008
+[ Thu Dec 31 15:25:46 2015 ]Data length received is: 6008
+[ Thu Dec 31 15:25:46 2015 ]Location data received.
+[ Thu Dec 31 15:25:46 2015 ]Start to receive location data.Point number should be 38
+[ Thu Dec 31 15:25:46 2015 ]Start to receive data.
+[ Thu Dec 31 15:25:46 2015 ]Data length to receive is: 5704
+[ Thu Dec 31 15:25:46 2015 ]Temp length to receive is: 5704
+[ Thu Dec 31 15:25:46 2015 ]Data length received is: 5704
+[ Thu Dec 31 15:25:46 2015 ]Location data received.
+[ Thu Dec 31 15:25:46 2015 ]Start to export six ban over speed and break ban detail for 内江, zoneID: 51100000.
+[ Thu Dec 31 15:25:57 2015 ]Start to receive location data.Point number should be 400
+[ Thu Dec 31 15:25:57 2015 ]Start to receive data.
+[ Thu Dec 31 15:25:57 2015 ]Start to receive data.
+[ Thu Dec 31 15:25:57 2015 ]Data length to receive is: 60004
+[ Thu Dec 31 15:25:57 2015 ]Temp length to receive is: 60004
+[ Thu Dec 31 15:25:57 2015 ]Data length received is: 16036
+[ Thu Dec 31 15:25:57 2015 ]Temp length to receive is: 43968
+[ Thu Dec 31 15:25:57 2015 ]Data length received is: 35040
+[ Thu Dec 31 15:25:57 2015 ]Temp length to receive is: 8928
+[ Thu Dec 31 15:25:57 2015 ]Data length received is: 8928
+[ Thu Dec 31 15:25:57 2015 ]Location data received.
+[ Thu Dec 31 15:26:05 2015 ]Start to receive location data.Point number should be 168
+[ Thu Dec 31 15:26:05 2015 ]Start to receive data.
+[ Thu Dec 31 15:26:05 2015 ]Data length to receive is: 25204
+[ Thu Dec 31 15:26:05 2015 ]Temp length to receive is: 25204
+[ Thu Dec 31 15:26:05 2015 ]Data length received is: 14576
+[ Thu Dec 31 15:26:05 2015 ]Temp length to receive is: 10628
+[ Thu Dec 31 15:26:05 2015 ]Data length received is: 10628
+[ Thu Dec 31 15:26:05 2015 ]Location data received.
+[ Thu Dec 31 15:26:08 2015 ]Start to receive location data.Point number should be 62
+[ Thu Dec 31 15:26:08 2015 ]Start to receive data.
+[ Thu Dec 31 15:26:08 2015 ]Data length to receive is: 9304
+[ Thu Dec 31 15:26:08 2015 ]Temp length to receive is: 9304
+[ Thu Dec 31 15:26:08 2015 ]Data length received is: 9304
+[ Thu Dec 31 15:26:08 2015 ]Location data received.
+[ Thu Dec 31 15:26:08 2015 ]Start to export six ban over speed and break ban detail for 成都, zoneID: 51010000.
+[ Thu Dec 31 15:27:40 2015 ]Start to receive location data.Point number should be 50
+[ Thu Dec 31 15:27:40 2015 ]Start to receive data.
+[ Thu Dec 31 15:27:40 2015 ]Start to receive data.
+[ Thu Dec 31 15:27:40 2015 ]Start to receive data.
+[ Thu Dec 31 15:27:40 2015 ]Start to receive data.
+[ Thu Dec 31 15:27:40 2015 ]Start to receive data.
+[ Thu Dec 31 15:27:40 2015 ]Start to receive data.
+[ Thu Dec 31 15:27:40 2015 ]Start to receive data.
+[ Thu Dec 31 15:27:40 2015 ]Data length to receive is: 7504
+[ Thu Dec 31 15:27:40 2015 ]Temp length to receive is: 7504
+[ Thu Dec 31 15:27:40 2015 ]Data length received is: 7504
+[ Thu Dec 31 15:27:40 2015 ]Location data received.
+[ Thu Dec 31 15:27:45 2015 ]Start to receive location data.Point number should be 400
+[ Thu Dec 31 15:27:45 2015 ]Start to receive data.
+[ Thu Dec 31 15:27:45 2015 ]Start to receive data.
+[ Thu Dec 31 15:27:45 2015 ]Data length to receive is: 60004
+[ Thu Dec 31 15:27:45 2015 ]Temp length to receive is: 60004
+[ Thu Dec 31 15:27:45 2015 ]Data length received is: 17496
+[ Thu Dec 31 15:27:45 2015 ]Temp length to receive is: 42508
+[ Thu Dec 31 15:27:45 2015 ]Data length received is: 42508
+[ Thu Dec 31 15:27:45 2015 ]Location data received.
+[ Thu Dec 31 15:27:45 2015 ]Start to receive location data.Point number should be 400
+[ Thu Dec 31 15:27:45 2015 ]Start to receive data.
+[ Thu Dec 31 15:27:45 2015 ]Data length to receive is: 60004
+[ Thu Dec 31 15:27:45 2015 ]Temp length to receive is: 60004
+[ Thu Dec 31 15:27:45 2015 ]Data length received is: 16036
+[ Thu Dec 31 15:27:45 2015 ]Temp length to receive is: 43968
+[ Thu Dec 31 15:27:45 2015 ]Data length received is: 24820
+[ Thu Dec 31 15:27:45 2015 ]Temp length to receive is: 19148
+[ Thu Dec 31 15:27:45 2015 ]Data length received is: 19148
+[ Thu Dec 31 15:27:45 2015 ]Location data received.
+[ Thu Dec 31 15:27:45 2015 ]Start to receive location data.Point number should be 400
+[ Thu Dec 31 15:27:45 2015 ]Start to receive data.
+[ Thu Dec 31 15:27:45 2015 ]Data length to receive is: 60004
+[ Thu Dec 31 15:27:45 2015 ]Temp length to receive is: 60004
+[ Thu Dec 31 15:27:45 2015 ]Data length received is: 16036
+[ Thu Dec 31 15:27:45 2015 ]Temp length to receive is: 43968
+[ Thu Dec 31 15:27:45 2015 ]Data length received is: 32120
+[ Thu Dec 31 15:27:45 2015 ]Temp length to receive is: 11848
+[ Thu Dec 31 15:27:45 2015 ]Data length received is: 11848
+[ Thu Dec 31 15:27:45 2015 ]Location data received.
+[ Thu Dec 31 15:27:45 2015 ]Start to receive location data.Point number should be 400
+[ Thu Dec 31 15:27:45 2015 ]Start to receive data.
+[ Thu Dec 31 15:27:45 2015 ]Data length to receive is: 60004
+[ Thu Dec 31 15:27:45 2015 ]Temp length to receive is: 60004
+[ Thu Dec 31 15:27:45 2015 ]Data length received is: 17496
+[ Thu Dec 31 15:27:45 2015 ]Temp length to receive is: 42508
+[ Thu Dec 31 15:27:45 2015 ]Data length received is: 39420
+[ Thu Dec 31 15:27:45 2015 ]Temp length to receive is: 3088
+[ Thu Dec 31 15:27:45 2015 ]Data length received is: 3088
+[ Thu Dec 31 15:27:45 2015 ]Location data received.
+[ Thu Dec 31 15:27:45 2015 ]Start to receive location data.Point number should be 400
+[ Thu Dec 31 15:27:45 2015 ]Start to receive data.
+[ Thu Dec 31 15:27:46 2015 ]Data length to receive is: 60004
+[ Thu Dec 31 15:27:46 2015 ]Temp length to receive is: 60004
+[ Thu Dec 31 15:27:46 2015 ]Data length received is: 17496
+[ Thu Dec 31 15:27:46 2015 ]Temp length to receive is: 42508
+[ Thu Dec 31 15:27:46 2015 ]Data length received is: 35040
+[ Thu Dec 31 15:27:46 2015 ]Temp length to receive is: 7468
+[ Thu Dec 31 15:27:46 2015 ]Data length received is: 7468
+[ Thu Dec 31 15:27:46 2015 ]Location data received.
+[ Thu Dec 31 15:27:46 2015 ]Start to receive location data.Point number should be 400
+[ Thu Dec 31 15:27:46 2015 ]Start to receive data.
+[ Thu Dec 31 15:27:46 2015 ]Data length to receive is: 60004
+[ Thu Dec 31 15:27:46 2015 ]Temp length to receive is: 60004
+[ Thu Dec 31 15:27:46 2015 ]Data length received is: 14576
+[ Thu Dec 31 15:27:46 2015 ]Temp length to receive is: 45428
+[ Thu Dec 31 15:27:46 2015 ]Data length received is: 45428
+[ Thu Dec 31 15:27:46 2015 ]Location data received.
+[ Thu Dec 31 15:27:46 2015 ]Start to receive location data.Point number should be 230
+[ Thu Dec 31 15:27:46 2015 ]Start to receive data.
+[ Thu Dec 31 15:27:46 2015 ]Data length to receive is: 34504
+[ Thu Dec 31 15:27:46 2015 ]Temp length to receive is: 34504
+[ Thu Dec 31 15:27:46 2015 ]Data length received is: 16036
+[ Thu Dec 31 15:27:46 2015 ]Temp length to receive is: 18468
+[ Thu Dec 31 15:27:46 2015 ]Data length received is: 18468
+[ Thu Dec 31 15:27:46 2015 ]Location data received.
+[ Thu Dec 31 15:27:47 2015 ]Start to export six ban over speed and break ban detail for 巴中, zoneID: 51190000.
+[ Thu Dec 31 15:28:00 2015 ]Start to receive location data.Point number should be 4
+[ Thu Dec 31 15:28:00 2015 ]Start to receive data.
+[ Thu Dec 31 15:28:00 2015 ]Start to receive data.
+[ Thu Dec 31 15:28:01 2015 ]Data length to receive is: 604
+[ Thu Dec 31 15:28:01 2015 ]Temp length to receive is: 604
+[ Thu Dec 31 15:28:01 2015 ]Data length received is: 604
+[ Thu Dec 31 15:28:01 2015 ]Location data received.
+[ Thu Dec 31 15:28:01 2015 ]Start to export six ban over speed and break ban detail for 自贡, zoneID: 51030000.
+[ Thu Dec 31 15:28:14 2015 ]Start to receive location data.Point number should be 400
+[ Thu Dec 31 15:28:14 2015 ]Start to receive data.
+[ Thu Dec 31 15:28:14 2015 ]Start to receive data.
+[ Thu Dec 31 15:28:14 2015 ]Data length to receive is: 60004
+[ Thu Dec 31 15:28:14 2015 ]Temp length to receive is: 60004
+[ Thu Dec 31 15:28:14 2015 ]Data length received is: 21876
+[ Thu Dec 31 15:28:14 2015 ]Temp length to receive is: 38128
+[ Thu Dec 31 15:28:14 2015 ]Data length received is: 35040
+[ Thu Dec 31 15:28:14 2015 ]Temp length to receive is: 3088
+[ Thu Dec 31 15:28:14 2015 ]Data length received is: 3088
+[ Thu Dec 31 15:28:14 2015 ]Location data received.
+[ Thu Dec 31 15:28:15 2015 ]Start to receive location data.Point number should be 50
+[ Thu Dec 31 15:28:15 2015 ]Start to receive data.
+[ Thu Dec 31 15:28:15 2015 ]Data length to receive is: 7504
+[ Thu Dec 31 15:28:15 2015 ]Temp length to receive is: 7504
+[ Thu Dec 31 15:28:15 2015 ]Data length received is: 7504
+[ Thu Dec 31 15:28:15 2015 ]Location data received.
+[ Thu Dec 31 15:28:18 2015 ]Start to receive location data.Point number should be 50
+[ Thu Dec 31 15:28:18 2015 ]Start to receive data.
+[ Thu Dec 31 15:28:18 2015 ]Data length to receive is: 7504
+[ Thu Dec 31 15:28:18 2015 ]Temp length to receive is: 7504
+[ Thu Dec 31 15:28:18 2015 ]Data length received is: 7504
+[ Thu Dec 31 15:28:18 2015 ]Location data received.
+[ Thu Dec 31 15:28:19 2015 ]Start to export six ban over speed and break ban detail for 遂宁, zoneID: 51090000.
+[ Thu Dec 31 15:28:36 2015 ]Start to receive location data.Point number should be 2
+[ Thu Dec 31 15:28:36 2015 ]Start to receive data.
+[ Thu Dec 31 15:28:36 2015 ]Start to receive data.
+[ Thu Dec 31 15:28:36 2015 ]Data length to receive is: 304
+[ Thu Dec 31 15:28:36 2015 ]Temp length to receive is: 304
+[ Thu Dec 31 15:28:36 2015 ]Data length received is: 304
+[ Thu Dec 31 15:28:36 2015 ]Location data received.
+[ Thu Dec 31 15:28:36 2015 ]Start to export six ban over speed and break ban detail for 攀枝花, zoneID: 51040000.
+[ Thu Dec 31 15:28:49 2015 ]Start to receive location data.Point number should be 8
+[ Thu Dec 31 15:28:49 2015 ]Start to receive data.
+[ Thu Dec 31 15:28:49 2015 ]Start to receive data.
+[ Thu Dec 31 15:28:49 2015 ]Data length to receive is: 1204
+[ Thu Dec 31 15:28:49 2015 ]Temp length to receive is: 1204
+[ Thu Dec 31 15:28:49 2015 ]Data length received is: 1204
+[ Thu Dec 31 15:28:49 2015 ]Location data received.
+[ Thu Dec 31 15:28:52 2015 ]Start to receive location data.Point number should be 90
+[ Thu Dec 31 15:28:52 2015 ]Start to receive data.
+[ Thu Dec 31 15:28:52 2015 ]Start to receive data.
+[ Thu Dec 31 15:28:52 2015 ]Data length to receive is: 13504
+[ Thu Dec 31 15:28:52 2015 ]Temp length to receive is: 13504
+[ Thu Dec 31 15:28:52 2015 ]Data length received is: 13504
+[ Thu Dec 31 15:28:52 2015 ]Location data received.
+[ Thu Dec 31 15:28:57 2015 ]Socket <socket._socketobject object at 0x0000000002945320> closed successfully!
+[ Thu Dec 31 15:28:57 2015 ]<socket._socketobject object at 0x0000000002945320>('192.168.100.204', 732) closed!
+[ Thu Dec 31 15:28:57 2015 ]Data length to receive is: 16
+[ Thu Dec 31 15:28:57 2015 ]Temp length to receive is: 16
+[ Thu Dec 31 15:28:57 2015 ]Data length received is: 16
+[ Thu Dec 31 15:28:57 2015 ]Start to export excel for user 1.
+[ Thu Dec 31 15:28:57 2015 ]    StartDate: 20151201; EndDate: 20151230; VehiclteType: 128; PlatformId: 0.
+[ Thu Dec 31 15:28:57 2015 ]Start to export normal over speed summary for all
+[ Thu Dec 31 15:29:07 2015 ]Start to export over speed summary for 成都, zoneID: 51010000.
+[ Thu Dec 31 15:29:11 2015 ]Start to export over speed summary for 绵阳, zoneID: 51070000.
+[ Thu Dec 31 15:29:14 2015 ]Start to export over speed summary for 自贡, zoneID: 51030000.
+[ Thu Dec 31 15:29:18 2015 ]Start to export over speed summary for 攀枝花, zoneID: 51040000.
+[ Thu Dec 31 15:29:22 2015 ]Start to export over speed summary for 泸州, zoneID: 51050000.
+[ Thu Dec 31 15:29:25 2015 ]Start to export over speed summary for 德阳, zoneID: 51060000.
+[ Thu Dec 31 15:29:29 2015 ]Start to export over speed summary for 广元, zoneID: 51080000.
+[ Thu Dec 31 15:29:33 2015 ]Start to export over speed summary for 遂宁, zoneID: 51090000.
+[ Thu Dec 31 15:29:36 2015 ]Start to export over speed summary for 内江, zoneID: 51100000.
+[ Thu Dec 31 15:29:40 2015 ]Start to export over speed summary for 乐山, zoneID: 51110000.
+[ Thu Dec 31 15:29:44 2015 ]Start to export over speed summary for 资阳, zoneID: 51200000.
+[ Thu Dec 31 15:29:47 2015 ]Start to export over speed summary for 宜宾, zoneID: 51150000.
+[ Thu Dec 31 15:29:51 2015 ]Start to export over speed summary for 南充, zoneID: 51130000.
+[ Thu Dec 31 15:29:55 2015 ]Start to export over speed summary for 达州, zoneID: 51170000.
+[ Thu Dec 31 15:29:59 2015 ]Start to export over speed summary for 雅安, zoneID: 51180000.
+[ Thu Dec 31 15:30:02 2015 ]Start to export over speed summary for 阿坝, zoneID: 51320000.
+[ Thu Dec 31 15:30:06 2015 ]Start to export over speed summary for 甘孜, zoneID: 51330000.
+[ Thu Dec 31 15:30:09 2015 ]Start to export over speed summary for 凉山, zoneID: 51340000.
+[ Thu Dec 31 15:30:13 2015 ]Start to export over speed summary for 广安, zoneID: 51160000.
+[ Thu Dec 31 15:30:16 2015 ]Start to export over speed summary for 巴中, zoneID: 51190000.
+[ Thu Dec 31 15:30:19 2015 ]Start to export over speed summary for 眉山, zoneID: 51140000.
+[ Thu Dec 31 15:30:23 2015 ]Export vehicle.
+
+[ Thu Dec 31 15:30:28 2015 ]Start to export normal over speed detail for 资阳, zoneID: 51200000.
+[ Thu Dec 31 15:30:35 2015 ]Start to export normal over speed detail for 广安, zoneID: 51160000.
+[ Thu Dec 31 15:30:41 2015 ]Start to export normal over speed detail for 宜宾, zoneID: 51150000.
+[ Thu Dec 31 15:30:51 2015 ]Start to export normal over speed detail for 泸州, zoneID: 51050000.
+[ Thu Dec 31 15:31:10 2015 ]Send hook successfully.
+[ Thu Dec 31 15:31:10 2015 ]LocationAnalyer successfully built connection to MapDataInterface.
+[ Thu Dec 31 15:31:10 2015 ]Start to receive location data.Point number should be 2
+[ Thu Dec 31 15:31:10 2015 ]Start to receive data.
+[ Thu Dec 31 15:31:10 2015 ]Data length to receive is: 60
+[ Thu Dec 31 15:31:10 2015 ]Temp length to receive is: 60
+[ Thu Dec 31 15:31:10 2015 ]Data length received is: 60
+[ Thu Dec 31 15:31:10 2015 ]Start to receive data.
+[ Thu Dec 31 15:31:10 2015 ]Data length to receive is: 304
+[ Thu Dec 31 15:31:10 2015 ]Temp length to receive is: 304
+[ Thu Dec 31 15:31:10 2015 ]Data length received is: 304
+[ Thu Dec 31 15:31:10 2015 ]Location data received.
+[ Thu Dec 31 15:31:10 2015 ]Start to export normal over speed detail for 德阳, zoneID: 51060000.
+[ Thu Dec 31 15:31:34 2015 ]Start to receive location data.Point number should be 10
+[ Thu Dec 31 15:31:34 2015 ]Start to receive data.
+[ Thu Dec 31 15:31:34 2015 ]Start to receive data.
+[ Thu Dec 31 15:31:34 2015 ]Start to receive data.
+[ Thu Dec 31 15:31:34 2015 ]Data length to receive is: 1504
+[ Thu Dec 31 15:31:34 2015 ]Temp length to receive is: 1504
+[ Thu Dec 31 15:31:34 2015 ]Data length received is: 1504
+[ Thu Dec 31 15:31:34 2015 ]Location data received.
+[ Thu Dec 31 15:31:34 2015 ]Start to export normal over speed detail for 乐山, zoneID: 51110000.
+[ Thu Dec 31 15:31:49 2015 ]Start to receive location data.Point number should be 14
+[ Thu Dec 31 15:31:49 2015 ]Start to receive data.
+[ Thu Dec 31 15:31:49 2015 ]Start to receive data.
+[ Thu Dec 31 15:31:49 2015 ]Data length to receive is: 2104
+[ Thu Dec 31 15:31:49 2015 ]Temp length to receive is: 2104
+[ Thu Dec 31 15:31:49 2015 ]Data length received is: 2104
+[ Thu Dec 31 15:31:49 2015 ]Location data received.
+[ Thu Dec 31 15:31:49 2015 ]Start to export normal over speed detail for 阿坝, zoneID: 51320000.
+[ Thu Dec 31 15:31:55 2015 ]Start to export normal over speed detail for 绵阳, zoneID: 51070000.
+[ Thu Dec 31 15:32:07 2015 ]Start to receive location data.Point number should be 6
+[ Thu Dec 31 15:32:07 2015 ]Start to receive data.
+[ Thu Dec 31 15:32:07 2015 ]Start to receive data.
+[ Thu Dec 31 15:32:08 2015 ]Data length to receive is: 904
+[ Thu Dec 31 15:32:08 2015 ]Temp length to receive is: 904
+[ Thu Dec 31 15:32:08 2015 ]Data length received is: 904
+[ Thu Dec 31 15:32:08 2015 ]Location data received.
+[ Thu Dec 31 15:32:08 2015 ]Start to export normal over speed detail for 广元, zoneID: 51080000.
+[ Thu Dec 31 15:32:15 2015 ]Start to export normal over speed detail for 达州, zoneID: 51170000.
+[ Thu Dec 31 15:32:27 2015 ]Start to export normal over speed detail for 四川, zoneID: 51000000.
+[ Thu Dec 31 15:32:31 2015 ]Start to receive location data.Point number should be 400
+[ Thu Dec 31 15:32:31 2015 ]Start to receive data.
+[ Thu Dec 31 15:32:31 2015 ]Start to receive data.
+[ Thu Dec 31 15:32:31 2015 ]Start to receive data.
+[ Thu Dec 31 15:32:31 2015 ]Data length to receive is: 60004
+[ Thu Dec 31 15:32:31 2015 ]Temp length to receive is: 60004
+[ Thu Dec 31 15:32:31 2015 ]Data length received is: 8736
+[ Thu Dec 31 15:32:31 2015 ]Temp length to receive is: 51268
+[ Thu Dec 31 15:32:31 2015 ]Data length received is: 51268
+[ Thu Dec 31 15:32:31 2015 ]Location data received.
+[ Thu Dec 31 15:32:31 2015 ]Start to receive location data.Point number should be 186
+[ Thu Dec 31 15:32:31 2015 ]Start to receive data.
+[ Thu Dec 31 15:32:31 2015 ]Data length to receive is: 27904
+[ Thu Dec 31 15:32:31 2015 ]Temp length to receive is: 27904
+[ Thu Dec 31 15:32:31 2015 ]Data length received is: 27904
+[ Thu Dec 31 15:32:31 2015 ]Location data received.
+[ Thu Dec 31 15:32:31 2015 ]Start to export normal over speed detail for 眉山, zoneID: 51140000.
+[ Thu Dec 31 15:32:48 2015 ]Start to receive location data.Point number should be 12
+[ Thu Dec 31 15:32:48 2015 ]Start to receive data.
+[ Thu Dec 31 15:32:48 2015 ]Start to receive data.
+[ Thu Dec 31 15:32:48 2015 ]Data length to receive is: 1804
+[ Thu Dec 31 15:32:48 2015 ]Temp length to receive is: 1804
+[ Thu Dec 31 15:32:48 2015 ]Data length received is: 1804
+[ Thu Dec 31 15:32:48 2015 ]Location data received.
+[ Thu Dec 31 15:32:48 2015 ]Start to export normal over speed detail for 甘孜, zoneID: 51330000.
+[ Thu Dec 31 15:32:53 2015 ]Start to export normal over speed detail for 雅安, zoneID: 51180000.
+[ Thu Dec 31 15:33:04 2015 ]Start to receive location data.Point number should be 4
+[ Thu Dec 31 15:33:04 2015 ]Start to receive data.
+[ Thu Dec 31 15:33:04 2015 ]Start to receive data.
+[ Thu Dec 31 15:33:05 2015 ]Data length to receive is: 604
+[ Thu Dec 31 15:33:05 2015 ]Temp length to receive is: 604
+[ Thu Dec 31 15:33:05 2015 ]Data length received is: 604
+[ Thu Dec 31 15:33:05 2015 ]Location data received.
+[ Thu Dec 31 15:33:05 2015 ]Start to export normal over speed detail for 南充, zoneID: 51130000.
+[ Thu Dec 31 15:33:27 2015 ]Start to export normal over speed detail for 凉山, zoneID: 51340000.
+[ Thu Dec 31 15:33:36 2015 ]Start to receive location data.Point number should be 10
+[ Thu Dec 31 15:33:36 2015 ]Start to receive data.
+[ Thu Dec 31 15:33:36 2015 ]Start to receive data.
+[ Thu Dec 31 15:33:36 2015 ]Start to receive data.
+[ Thu Dec 31 15:33:36 2015 ]Data length to receive is: 1504
+[ Thu Dec 31 15:33:36 2015 ]Temp length to receive is: 1504
+[ Thu Dec 31 15:33:36 2015 ]Data length received is: 1504
+[ Thu Dec 31 15:33:36 2015 ]Location data received.
+[ Thu Dec 31 15:33:36 2015 ]Start to export normal over speed detail for 内江, zoneID: 51100000.
+[ Thu Dec 31 15:33:44 2015 ]Start to export normal over speed detail for 成都, zoneID: 51010000.
+[ Thu Dec 31 15:34:39 2015 ]Start to receive location data.Point number should be 196
+[ Thu Dec 31 15:34:39 2015 ]Start to receive data.
+[ Thu Dec 31 15:34:39 2015 ]Start to receive data.
+[ Thu Dec 31 15:34:39 2015 ]Start to receive data.
+[ Thu Dec 31 15:34:39 2015 ]Start to receive data.
+[ Thu Dec 31 15:34:39 2015 ]Start to receive data.
+[ Thu Dec 31 15:34:39 2015 ]Data length to receive is: 29404
+[ Thu Dec 31 15:34:39 2015 ]Temp length to receive is: 29404
+[ Thu Dec 31 15:34:39 2015 ]Data length received is: 23336
+[ Thu Dec 31 15:34:39 2015 ]Temp length to receive is: 6068
+[ Thu Dec 31 15:34:39 2015 ]Data length received is: 6068
+[ Thu Dec 31 15:34:39 2015 ]Location data received.
+[ Thu Dec 31 15:34:40 2015 ]Start to export normal over speed detail for 巴中, zoneID: 51190000.
+[ Thu Dec 31 15:34:46 2015 ]Start to receive location data.Point number should be 330
+[ Thu Dec 31 15:34:46 2015 ]Start to receive data.
+[ Thu Dec 31 15:34:46 2015 ]Start to receive data.
+[ Thu Dec 31 15:34:46 2015 ]Data length to receive is: 49504
+[ Thu Dec 31 15:34:46 2015 ]Temp length to receive is: 49504
+[ Thu Dec 31 15:34:46 2015 ]Data length received is: 14576
+[ Thu Dec 31 15:34:46 2015 ]Temp length to receive is: 34928
+[ Thu Dec 31 15:34:46 2015 ]Data length received is: 34928
+[ Thu Dec 31 15:34:46 2015 ]Location data received.
+[ Thu Dec 31 15:34:46 2015 ]Start to export normal over speed detail for 自贡, zoneID: 51030000.
+[ Thu Dec 31 15:34:55 2015 ]Start to export normal over speed detail for 遂宁, zoneID: 51090000.
+[ Thu Dec 31 15:35:02 2015 ]Start to receive location data.Point number should be 2
+[ Thu Dec 31 15:35:02 2015 ]Start to receive data.
+[ Thu Dec 31 15:35:02 2015 ]Start to receive data.
+[ Thu Dec 31 15:35:02 2015 ]Data length to receive is: 304
+[ Thu Dec 31 15:35:02 2015 ]Temp length to receive is: 304
+[ Thu Dec 31 15:35:02 2015 ]Data length received is: 304
+[ Thu Dec 31 15:35:02 2015 ]Location data received.
+[ Thu Dec 31 15:35:02 2015 ]Start to export normal over speed detail for 攀枝花, zoneID: 51040000.
+[ Thu Dec 31 15:35:15 2015 ]Socket <socket._socketobject object at 0x00000000029270B0> closed successfully!
+[ Thu Dec 31 15:35:15 2015 ]<socket._socketobject object at 0x00000000029270B0>('192.168.100.204', 732) closed!
+[ Thu Dec 31 15:35:15 2015 ]Data length to receive is: 16
+[ Thu Dec 31 15:35:15 2015 ]Temp length to receive is: 16
+[ Thu Dec 31 15:35:15 2015 ]Data length received is: 16
+[ Thu Dec 31 15:35:15 2015 ]Start to export excel for user 1725.
+[ Thu Dec 31 15:35:15 2015 ]    StartDate: 20151201; EndDate: 20151230; VehiclteType: 128; PlatformId: 0.
+[ Thu Dec 31 15:35:15 2015 ]Start to export normal over speed summary for all
+[ Thu Dec 31 15:35:23 2015 ]Start to export over speed summary for 成都, zoneID: 51010000.
+[ Thu Dec 31 15:35:27 2015 ]Start to export over speed summary for 绵阳, zoneID: 51070000.
+[ Thu Dec 31 15:35:31 2015 ]Start to export over speed summary for 自贡, zoneID: 51030000.
+[ Thu Dec 31 15:35:34 2015 ]Start to export over speed summary for 攀枝花, zoneID: 51040000.
+[ Thu Dec 31 15:35:37 2015 ]Start to export over speed summary for 泸州, zoneID: 51050000.
+[ Thu Dec 31 15:35:41 2015 ]Start to export over speed summary for 德阳, zoneID: 51060000.
+[ Thu Dec 31 15:35:45 2015 ]Start to export over speed summary for 广元, zoneID: 51080000.
+[ Thu Dec 31 15:35:48 2015 ]Start to export over speed summary for 遂宁, zoneID: 51090000.
+[ Thu Dec 31 15:35:51 2015 ]Start to export over speed summary for 内江, zoneID: 51100000.
+[ Thu Dec 31 15:35:55 2015 ]Start to export over speed summary for 乐山, zoneID: 51110000.
+[ Thu Dec 31 15:35:58 2015 ]Start to export over speed summary for 资阳, zoneID: 51200000.
+[ Thu Dec 31 15:36:02 2015 ]Start to export over speed summary for 宜宾, zoneID: 51150000.
+[ Thu Dec 31 15:36:05 2015 ]Start to export over speed summary for 南充, zoneID: 51130000.
+[ Thu Dec 31 15:36:09 2015 ]Start to export over speed summary for 达州, zoneID: 51170000.
+[ Thu Dec 31 15:36:13 2015 ]Start to export over speed summary for 雅安, zoneID: 51180000.
+[ Thu Dec 31 15:36:17 2015 ]Start to export over speed summary for 阿坝, zoneID: 51320000.
+[ Thu Dec 31 15:36:20 2015 ]Start to export over speed summary for 甘孜, zoneID: 51330000.
+[ Thu Dec 31 15:36:23 2015 ]Start to export over speed summary for 凉山, zoneID: 51340000.
+[ Thu Dec 31 15:36:28 2015 ]Start to export over speed summary for 广安, zoneID: 51160000.
+[ Thu Dec 31 15:36:32 2015 ]Start to export over speed summary for 巴中, zoneID: 51190000.
+[ Thu Dec 31 15:36:35 2015 ]Start to export over speed summary for 眉山, zoneID: 51140000.
+[ Thu Dec 31 15:36:40 2015 ]Export vehicle.
+
+[ Thu Dec 31 15:36:44 2015 ]Start to export normal over speed detail for 资阳, zoneID: 51200000.
+[ Thu Dec 31 15:36:50 2015 ]Start to export normal over speed detail for 广安, zoneID: 51160000.
+[ Thu Dec 31 15:36:57 2015 ]Start to export normal over speed detail for 宜宾, zoneID: 51150000.
+[ Thu Dec 31 15:37:08 2015 ]Start to export normal over speed detail for 泸州, zoneID: 51050000.
+[ Thu Dec 31 15:37:28 2015 ]Send hook successfully.
+[ Thu Dec 31 15:37:28 2015 ]LocationAnalyer successfully built connection to MapDataInterface.
+[ Thu Dec 31 15:37:28 2015 ]Start to receive location data.Point number should be 2
+[ Thu Dec 31 15:37:28 2015 ]Start to receive data.
+[ Thu Dec 31 15:37:28 2015 ]Data length to receive is: 60
+[ Thu Dec 31 15:37:28 2015 ]Temp length to receive is: 60
+[ Thu Dec 31 15:37:28 2015 ]Data length received is: 60
+[ Thu Dec 31 15:37:28 2015 ]Start to receive data.
+[ Thu Dec 31 15:37:28 2015 ]Data length to receive is: 304
+[ Thu Dec 31 15:37:28 2015 ]Temp length to receive is: 304
+[ Thu Dec 31 15:37:28 2015 ]Data length received is: 304
+[ Thu Dec 31 15:37:28 2015 ]Location data received.
+[ Thu Dec 31 15:37:28 2015 ]Start to export normal over speed detail for 德阳, zoneID: 51060000.
+[ Thu Dec 31 15:37:49 2015 ]Start to receive location data.Point number should be 10
+[ Thu Dec 31 15:37:49 2015 ]Start to receive data.
+[ Thu Dec 31 15:37:49 2015 ]Start to receive data.
+[ Thu Dec 31 15:37:49 2015 ]Start to receive data.
+[ Thu Dec 31 15:37:49 2015 ]Data length to receive is: 1504
+[ Thu Dec 31 15:37:49 2015 ]Temp length to receive is: 1504
+[ Thu Dec 31 15:37:49 2015 ]Data length received is: 1504
+[ Thu Dec 31 15:37:49 2015 ]Location data received.
+[ Thu Dec 31 15:37:49 2015 ]Start to export normal over speed detail for 乐山, zoneID: 51110000.
+[ Thu Dec 31 15:38:02 2015 ]Start to receive location data.Point number should be 14
+[ Thu Dec 31 15:38:02 2015 ]Start to receive data.
+[ Thu Dec 31 15:38:02 2015 ]Data length to receive is: 2104
+[ Thu Dec 31 15:38:02 2015 ]Temp length to receive is: 2104
+[ Thu Dec 31 15:38:02 2015 ]Data length received is: 2104
+[ Thu Dec 31 15:38:02 2015 ]Location data received.
+[ Thu Dec 31 15:38:03 2015 ]Start to export normal over speed detail for 阿坝, zoneID: 51320000.
+[ Thu Dec 31 15:38:09 2015 ]Start to export normal over speed detail for 绵阳, zoneID: 51070000.
+[ Thu Dec 31 15:38:20 2015 ]Start to receive location data.Point number should be 6
+[ Thu Dec 31 15:38:20 2015 ]Start to receive data.
+[ Thu Dec 31 15:38:20 2015 ]Start to receive data.
+[ Thu Dec 31 15:38:20 2015 ]Start to receive data.
+[ Thu Dec 31 15:38:20 2015 ]Data length to receive is: 904
+[ Thu Dec 31 15:38:20 2015 ]Temp length to receive is: 904
+[ Thu Dec 31 15:38:20 2015 ]Data length received is: 904
+[ Thu Dec 31 15:38:20 2015 ]Location data received.
+[ Thu Dec 31 15:38:20 2015 ]Start to export normal over speed detail for 广元, zoneID: 51080000.
+[ Thu Dec 31 15:38:28 2015 ]Start to export normal over speed detail for 达州, zoneID: 51170000.
+[ Thu Dec 31 15:38:39 2015 ]Start to export normal over speed detail for 四川, zoneID: 51000000.
+[ Thu Dec 31 15:38:43 2015 ]Start to receive location data.Point number should be 400
+[ Thu Dec 31 15:38:43 2015 ]Start to receive data.
+[ Thu Dec 31 15:38:43 2015 ]Start to receive data.
+[ Thu Dec 31 15:38:44 2015 ]Data length to receive is: 60004
+[ Thu Dec 31 15:38:44 2015 ]Temp length to receive is: 60004
+[ Thu Dec 31 15:38:44 2015 ]Data length received is: 8736
+[ Thu Dec 31 15:38:44 2015 ]Temp length to receive is: 51268
+[ Thu Dec 31 15:38:44 2015 ]Data length received is: 13140
+[ Thu Dec 31 15:38:44 2015 ]Temp length to receive is: 38128
+[ Thu Dec 31 15:38:44 2015 ]Data length received is: 38128
+[ Thu Dec 31 15:38:44 2015 ]Location data received.
+[ Thu Dec 31 15:38:44 2015 ]Start to receive location data.Point number should be 186
+[ Thu Dec 31 15:38:44 2015 ]Start to receive data.
+[ Thu Dec 31 15:38:44 2015 ]Data length to receive is: 27904
+[ Thu Dec 31 15:38:44 2015 ]Temp length to receive is: 27904
+[ Thu Dec 31 15:38:44 2015 ]Data length received is: 17496
+[ Thu Dec 31 15:38:44 2015 ]Temp length to receive is: 10408
+[ Thu Dec 31 15:38:44 2015 ]Data length received is: 10408
+[ Thu Dec 31 15:38:44 2015 ]Location data received.
+[ Thu Dec 31 15:38:44 2015 ]Start to export normal over speed detail for 眉山, zoneID: 51140000.
+[ Thu Dec 31 15:39:01 2015 ]Start to receive location data.Point number should be 12
+[ Thu Dec 31 15:39:01 2015 ]Start to receive data.
+[ Thu Dec 31 15:39:01 2015 ]Start to receive data.
+[ Thu Dec 31 15:39:01 2015 ]Data length to receive is: 1804
+[ Thu Dec 31 15:39:01 2015 ]Temp length to receive is: 1804
+[ Thu Dec 31 15:39:01 2015 ]Data length received is: 1804
+[ Thu Dec 31 15:39:01 2015 ]Location data received.
+[ Thu Dec 31 15:39:01 2015 ]Start to export normal over speed detail for 甘孜, zoneID: 51330000.
+[ Thu Dec 31 15:39:07 2015 ]Start to export normal over speed detail for 雅安, zoneID: 51180000.
+[ Thu Dec 31 15:39:18 2015 ]Start to receive location data.Point number should be 4
+[ Thu Dec 31 15:39:18 2015 ]Start to receive data.
+[ Thu Dec 31 15:39:18 2015 ]Start to receive data.
+[ Thu Dec 31 15:39:18 2015 ]Start to receive data.
+[ Thu Dec 31 15:39:18 2015 ]Data length to receive is: 604
+[ Thu Dec 31 15:39:18 2015 ]Temp length to receive is: 604
+[ Thu Dec 31 15:39:18 2015 ]Data length received is: 604
+[ Thu Dec 31 15:39:18 2015 ]Location data received.
+[ Thu Dec 31 15:39:18 2015 ]Start to export normal over speed detail for 南充, zoneID: 51130000.
+[ Thu Dec 31 15:39:41 2015 ]Start to export normal over speed detail for 凉山, zoneID: 51340000.
+[ Thu Dec 31 15:39:51 2015 ]Start to receive location data.Point number should be 10
+[ Thu Dec 31 15:39:51 2015 ]Start to receive data.
+[ Thu Dec 31 15:39:51 2015 ]Start to receive data.
+[ Thu Dec 31 15:39:51 2015 ]Start to receive data.
+[ Thu Dec 31 15:39:51 2015 ]Data length to receive is: 1504
+[ Thu Dec 31 15:39:51 2015 ]Temp length to receive is: 1504
+[ Thu Dec 31 15:39:51 2015 ]Data length received is: 1504
+[ Thu Dec 31 15:39:51 2015 ]Location data received.
+[ Thu Dec 31 15:39:51 2015 ]Start to export normal over speed detail for 内江, zoneID: 51100000.
+[ Thu Dec 31 15:39:58 2015 ]Start to export normal over speed detail for 成都, zoneID: 51010000.
+[ Thu Dec 31 15:40:56 2015 ]Start to receive location data.Point number should be 196
+[ Thu Dec 31 15:40:56 2015 ]Start to receive data.
+[ Thu Dec 31 15:40:56 2015 ]Start to receive data.
+[ Thu Dec 31 15:40:56 2015 ]Start to receive data.
+[ Thu Dec 31 15:40:56 2015 ]Start to receive data.
+[ Thu Dec 31 15:40:56 2015 ]Start to receive data.
+[ Thu Dec 31 15:40:56 2015 ]Data length to receive is: 29404
+[ Thu Dec 31 15:40:56 2015 ]Temp length to receive is: 29404
+[ Thu Dec 31 15:40:56 2015 ]Data length received is: 26256
+[ Thu Dec 31 15:40:56 2015 ]Temp length to receive is: 3148
+[ Thu Dec 31 15:40:56 2015 ]Data length received is: 3148
+[ Thu Dec 31 15:40:56 2015 ]Location data received.
+[ Thu Dec 31 15:40:56 2015 ]Start to export normal over speed detail for 巴中, zoneID: 51190000.
+[ Thu Dec 31 15:41:02 2015 ]Start to receive location data.Point number should be 330
+[ Thu Dec 31 15:41:02 2015 ]Start to receive data.
+[ Thu Dec 31 15:41:03 2015 ]Data length to receive is: 49504
+[ Thu Dec 31 15:41:03 2015 ]Temp length to receive is: 49504
+[ Thu Dec 31 15:41:03 2015 ]Data length received is: 17496
+[ Thu Dec 31 15:41:03 2015 ]Temp length to receive is: 32008
+[ Thu Dec 31 15:41:03 2015 ]Data length received is: 32008
+[ Thu Dec 31 15:41:03 2015 ]Location data received.
+[ Thu Dec 31 15:41:03 2015 ]Start to export normal over speed detail for 自贡, zoneID: 51030000.
+[ Thu Dec 31 15:41:12 2015 ]Start to export normal over speed detail for 遂宁, zoneID: 51090000.
+[ Thu Dec 31 15:41:19 2015 ]Start to receive location data.Point number should be 2
+[ Thu Dec 31 15:41:19 2015 ]Start to receive data.
+[ Thu Dec 31 15:41:19 2015 ]Start to receive data.
+[ Thu Dec 31 15:41:19 2015 ]Start to receive data.
+[ Thu Dec 31 15:41:19 2015 ]Data length to receive is: 304
+[ Thu Dec 31 15:41:19 2015 ]Temp length to receive is: 304
+[ Thu Dec 31 15:41:19 2015 ]Data length received is: 304
+[ Thu Dec 31 15:41:19 2015 ]Location data received.
+[ Thu Dec 31 15:41:19 2015 ]Start to export normal over speed detail for 攀枝花, zoneID: 51040000.
+[ Thu Dec 31 15:41:32 2015 ]Socket <socket._socketobject object at 0x0000000002927118> closed successfully!
+[ Thu Dec 31 15:41:32 2015 ]<socket._socketobject object at 0x0000000002927118>('192.168.100.204', 732) closed!
+[ Fri Jan 01 09:26:13 2016 ][Errno 10054] 
+[ Fri Jan 01 09:26:13 2016 ]Recv data from socket <socket._socketobject object at 0x0000000002966F50> failed!
+[ Fri Jan 01 09:26:13 2016 ]Socket <socket._socketobject object at 0x0000000002966F50> closed successfully!
+[ Fri Jan 01 09:26:13 2016 ]<socket._socketobject object at 0x0000000002966F50>('192.168.100.204', 54028) closed!
+[ Fri Jan 01 09:26:13 2016 ]Quit report server worker thread.
+[ Fri Jan 01 09:26:18 2016 ]Built a connector on ('192.168.100.204', 54611)!

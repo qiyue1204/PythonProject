@@ -1,0 +1,2 @@
+[ Mon Feb 22 09:51:27 2016 ][Errno 10061] 
+[ Mon Feb 22 09:51:27 2016 ]socket <socket._socketobject object at 0x0000000002891BA8> connected to 192.168.100.206:22222 failed!
