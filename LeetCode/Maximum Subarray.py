@@ -46,8 +46,6 @@ class Solution(object):
                         maxsum = subsum
                         maxarray = subarray
         return maxarray,maxsum
-        '''
-        '''
         solution1
         print len(nums)
         maxsum=nums[0]
