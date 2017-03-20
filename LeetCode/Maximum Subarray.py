@@ -1,16 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-class Solution(object):
-    def maxSubArray(self, nums):
-
-        :type nums: List[int]
-        :rtype: int
-        self.
-        print nums
-
-a = Solution
-print a.maxSubArray(self.,[1,2,3,4,5])
-"""
 import itertools
 
 class Solution(object):
